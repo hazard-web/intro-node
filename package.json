@@ -1,0 +1,18 @@
+{
+  "name": "intro-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firstapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node firstapp.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "start": "^5.1.0",
+    "sudo": "^1.0.3"
+  }
+}
